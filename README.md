@@ -36,7 +36,7 @@ ASP.NET MVC CORE.
 first approach.
 - Project is built using .NET Core 8.0 Framework.
 
- ### Football match predictor
+### Football match predictor
 - Predicted outcomes of English Premier League matches using machine learning
 Created feature set based on historical gameplay and team performance data
 Preprocessed data and trained models using Python and scikit-learn.
