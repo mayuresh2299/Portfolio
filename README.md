@@ -28,8 +28,8 @@ Dynamic and results-driven Full Stack Developer with over 5 years of experience 
 - Skills Utilized: React.js, ASP.NET, SQL.
 - Impact: Enhanced user experience and decision-making capabilities for traders, leading to a 25% increase in user retention.
 
-## Projects
-### enre - ASP.NET Core (Practice)
+## Personal Projects
+### Genre - ASP.NET Core (Practice)
 - toring categories(genre) of the movies into the SQL Server Database using
 ASP.NET MVC CORE.
 - Using migrations of Entity Framework Core to create the Database using code
